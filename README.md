@@ -1,5 +1,4 @@
 # projectforsummerinternship
-# LinuxWorld_summer_internship
 GUI-Based Menu with Python
 This Python script creates a graphical user interface (GUI) with a menu of various functionalities using the Tkinter library. The menu offers features such as software application launching, messaging, media capture, AWS services interaction, and more.
 
